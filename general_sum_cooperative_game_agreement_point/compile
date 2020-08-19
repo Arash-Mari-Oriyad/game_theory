@@ -1,0 +1,1 @@
+g++ -I /usr/local/include main.cpp /full_path_to/liblpsolve55.so -Wl,--no-as-needed -ldl -o main.out

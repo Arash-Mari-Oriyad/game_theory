@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/full_path_to/lp_solve_5.5.2.5_dev_ux64/" ./main.out first_player_utility_matrix.txt second_player_utility_matrix.txt
