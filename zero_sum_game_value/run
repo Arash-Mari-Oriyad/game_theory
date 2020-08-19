@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/full_paht_to/lp_solve_5.5.2.5_dev_ux64" ./main.out game_matrix.txt
